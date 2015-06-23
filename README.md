@@ -65,6 +65,8 @@ WARNING:root:   size: 3439  vld: -6.024147  thresh: 0.010000
 nltcs   t: 0.01000  cp:  10.0   time:11.1   dag  1288 va: -6.0011 te: -6.0595
 ```
 
+It may also print a line reading `WARNING:root:   ran out of steps to take.`
+
 The last line shows the dataset, threshold, cluster-penalty, training time,
 size of the final SPN, validation likelihood, and test likelihood.
 

@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Cython output
+*.c
+*.cpp
+
+# C extensions
+*.so
+
+# vim swp files
+*.swp
+
+# spn files
+*.spn
+
+# Experiment results folder
+results/
+
+# Dataset folders
+datasets/gens.domingos/
+datasets/permanent/
+datasets/gens.domingos.zip
+datasets/permanent.zip
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
