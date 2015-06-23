@@ -1,0 +1,9 @@
+DIR="./spnss"
+
+rm $DIR/*.so
+rm $DIR/*.cpp
+rm $DIR/*.pyc
+rm $DIR/test/*.so
+rm $DIR/test/*.cpp
+rm $DIR/test/*.pyc
+
